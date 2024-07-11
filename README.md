@@ -54,7 +54,7 @@ We welcome contributions to TimeView! To contribute, please follow these steps:
 
 ## Contact
 
-email address - hcsibhuku@gmail.com
+Hazel Sibhuku - hcsibhuku@gmail.com[#contact]
 
 
 
